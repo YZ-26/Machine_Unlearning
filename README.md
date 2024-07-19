@@ -3,6 +3,8 @@
 ## Description
 
 This project explores the concept of machine unlearning using a Convolutional Neural Network (CNN) trained on the MNIST digits dataset. The objective is to remove the influence of a specific class (class 6) from the trained model and introduce a new class (class 7) while maintaining the model’s performance and efficiency.
+[Download the Report](https://github.com/user-attachments/files/16317361/DLAI_Final_Project_Report.pdf)
+
 
 ## Features
 
